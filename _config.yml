@@ -1,0 +1,28 @@
+name: Trump2016
+favicon: null
+layout_spectrum: 0.8705469933338463
+typography_spectrum: 0.180387627100572
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3853500783443451
+  lightness: 0.8282514268066734
+  saturation: 0.40068186237476766
+  rhythmicContrast: 0.4980344311334193
+purpose: []
